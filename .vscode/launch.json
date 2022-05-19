@@ -4,7 +4,14 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {   
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "LAB-5_229db6bb"
+        },
+        {
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
